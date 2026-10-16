@@ -1,4 +1,3 @@
-# Practicadocker-1
 
 # Práctica 1: Docker y GitHub Codespaces
 
